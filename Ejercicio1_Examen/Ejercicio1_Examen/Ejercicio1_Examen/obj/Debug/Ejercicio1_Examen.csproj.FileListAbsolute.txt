@@ -1,0 +1,11 @@
+C:\Users\DTZ-MSM\source\repos\Ejercicio1_Examen\Ejercicio1_Examen\bin\Debug\Ejercicio1_Examen.exe.config
+C:\Users\DTZ-MSM\source\repos\Ejercicio1_Examen\Ejercicio1_Examen\bin\Debug\Ejercicio1_Examen.exe
+C:\Users\DTZ-MSM\source\repos\Ejercicio1_Examen\Ejercicio1_Examen\bin\Debug\Ejercicio1_Examen.pdb
+C:\Users\DTZ-MSM\source\repos\Ejercicio1_Examen\Ejercicio1_Examen\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DTZ-MSM\source\repos\Ejercicio1_Examen\Ejercicio1_Examen\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DTZ-MSM\source\repos\Ejercicio1_Examen\Ejercicio1_Examen\obj\Debug\Ejercicio1_Examen.csproj.AssemblyReference.cache
+C:\Users\DTZ-MSM\source\repos\Ejercicio1_Examen\Ejercicio1_Examen\obj\Debug\Ejercicio1_Examen.csproj.SuggestedBindingRedirects.cache
+C:\Users\DTZ-MSM\source\repos\Ejercicio1_Examen\Ejercicio1_Examen\obj\Debug\Ejercicio1_Examen.csproj.CoreCompileInputs.cache
+C:\Users\DTZ-MSM\source\repos\Ejercicio1_Examen\Ejercicio1_Examen\obj\Debug\Ejercicio1_Examen.csproj.CopyComplete
+C:\Users\DTZ-MSM\source\repos\Ejercicio1_Examen\Ejercicio1_Examen\obj\Debug\Ejercicio1_Examen.exe
+C:\Users\DTZ-MSM\source\repos\Ejercicio1_Examen\Ejercicio1_Examen\obj\Debug\Ejercicio1_Examen.pdb
